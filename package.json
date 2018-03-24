@@ -1,0 +1,19 @@
+{
+  "name": "webrtc",
+  "version": "1.0.0",
+  "description": "WebRTC implementation",
+  "scripts": {
+  	"start-server": "lite-server"
+  },
+  "author": "Saibal Thakur",
+  "license": "ISC",
+  "devDependencies": {
+    "browserify": "^16.1.1",
+    "gulp": "^3.9.1",
+    "gulp-typescript": "^4.0.1",
+    "lite-server": "^2.3.0",
+    "tsify": "^3.0.4",
+    "typescript": "^2.7.2",
+    "vinyl-source-stream": "^2.0.0"
+  }
+}
