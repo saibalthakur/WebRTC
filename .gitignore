@@ -65,7 +65,7 @@ typings/
 dist
 
 #lite server config
-bs-config
+bs-config.json
 
 ### VisualStudioCode ###
 .vscode/*
